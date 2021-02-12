@@ -1,1 +1,1 @@
-# cs212
+Class project for CS212 at Calvin University
